@@ -1,0 +1,18 @@
+{
+    "first_name": "Paul",
+    "surname": "Miller",
+    "cell": "447557505611",
+    "city": "London",
+    "location": [45.123, 47.232],
+    "profession": ["banking", "finance", "trader"],
+    "cars": [
+        {
+            "model": "Bentley",
+            "year": 1973
+        },
+        {
+            "model": "Rolls Royce",
+            "year": 1965
+        }
+    ]
+}
